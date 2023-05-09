@@ -29,3 +29,19 @@ For geocode and reverse geocode separate html files with javascript was as mapge
 ![image](https://github.com/UdaraBGAkila/GeoCodeQt/assets/22652266/120df7e1-a3ce-4d23-962b-2c811048563b)
 
 Above code is used for creating functions to zoom and move the loaded google map which is used in button functions.
+
+![image](https://github.com/UdaraBGAkila/GeoCodeQt/assets/22652266/93dd7011-34a7-41c2-9035-89a0f4870f1a)
+
+Here above zoom and move functions given are used with buttons.
+
+![image](https://github.com/UdaraBGAkila/GeoCodeQt/assets/22652266/d771d643-c7de-437f-b8a8-d00f7e9d82ee)
+
+These are the signal slots for above buttons.
+
+#### Main class
+
+![image](https://github.com/UdaraBGAkila/GeoCodeQt/assets/22652266/cd53226e-f922-4464-9276-dbc6d9873ba6)
+
+This class is used to show the widget output.
+
+
